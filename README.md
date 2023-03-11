@@ -15,6 +15,8 @@ Subscription:
 When subscribing, a corresponding entry is created in the database:
 ![image](https://user-images.githubusercontent.com/96882434/224506946-0c283a87-a7f7-4726-88e1-9a27052fa9dd.png)
 ![image](https://user-images.githubusercontent.com/96882434/224506950-b066e819-394f-4aa4-8b7a-12a91164b723.png)
+
+
 When you subscribe, at the appointed time, the schedule for a specific day is sent automatically.You can also unsubcribe just clicking the same button again:
 ![image](https://user-images.githubusercontent.com/96882434/224507058-9143a746-e803-41af-8876-766749827a59.png)
 Clicking on the “More” button may provide additional information, in this case, links to the classroom and mail.
