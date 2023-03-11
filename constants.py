@@ -1,5 +1,5 @@
 # api key
-API_KEY = '5103838295:AAHwdmZVNQNzrsdGWUKhp5n8L2Qz-4ZA-Ug'
+API_KEY = 'YOUR API KEY'
 
 # start of the year  and the end of the study year
 # start date must be on MONDAY, if it's not, assign  that MONDAY date  which is before  start study day!
