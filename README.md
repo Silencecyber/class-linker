@@ -1,6 +1,8 @@
 This is a Telegram bot application to simplify class scheduling and improve online learning experience, using Python and TelegramBotAPI library.
 
 P.S ODD,EVEN means, that in the odd week we have one variant of schedule and in  the even week we have another one.
+
+
 Demo:
 
 Welcome window:
